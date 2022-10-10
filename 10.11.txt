@@ -1,0 +1,11 @@
+main-->제목,아이디,이미지[0],
+content-->이미지4개(output),제목,본문,아이디
+upload-->이미지4개(input),제목,본문
+profile-->이미지[0],제목
+join-->이메일,비밀번호,닉네임,이름
+login-->이메일,비밀번호
+
+feed[title,content,user_id]
+uploadfeed[images,title,user_id]
+bookmark[images,title]
+user[email,password]
